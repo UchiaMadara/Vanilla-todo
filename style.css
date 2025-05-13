@@ -1,0 +1,27 @@
+body{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   display: flex;
+   justify-content: center;
+   background-image: linear-gradient(45deg, purple, blue);
+   background-repeat: no-repeat;
+   height: 100vh;
+    
+}
+
+.todo{
+    border: 3px red solid;
+    min-width: 300px;
+    justify-items: center;
+    align-self: center;
+    min-width: 300px;
+}
+ul{
+    justify-self: self-start;
+    font-size: larger;
+    font-weight: bold;
+    list-style-type: none;
+
+
+}
